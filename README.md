@@ -7,6 +7,6 @@
 - Write a Key on "Chave:" <br />
 - Choose Encrypt or Decrypt <br />
 <p align="center">
-**And enjoy 😀**
+And enjoy 😀
 </p>
 
