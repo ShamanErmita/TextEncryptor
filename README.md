@@ -6,4 +6,7 @@
 - Add text the text you want to encrypt or decrypt to "Mensagem:" <br />
 - Write a Key on "Chave:" <br />
 - Choose Encrypt or Decrypt <br />
-  **And enjoy 😀**
+<p align="center">
+**And enjoy 😀**
+</p>
+
